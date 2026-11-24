@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
+instance/
+backups/
+*_backup_*/
+update_tmp/
